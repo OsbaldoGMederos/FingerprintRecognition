@@ -1,9 +1,5 @@
 function bw = testthin(Image);
 
-%% This is the thinning Algorithm in Matlab as bwmorph(Image,'thin')
-% Author: zhengguo dai
-% Email: zhgdai@126.com
-% Company: Beijing JX Digital Wave Co.ltd
 
 %% Load a Image
 % close all ;
