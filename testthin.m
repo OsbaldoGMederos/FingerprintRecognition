@@ -1,6 +1,5 @@
 function bw = testthin(Image);
 
-
 %% Load a Image
 % close all ;
 IterThinning = 100 ;
